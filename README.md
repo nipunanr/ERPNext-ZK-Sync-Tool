@@ -9,4 +9,4 @@ Some key features of ERPNext ZK Sync Tool include real-time synchronization, aut
 Overall, ERPNext ZK Sync Tool is a powerful and reliable solution for businesses and organizations that want to streamline their attendance tracking processes. It offers a range of advanced features that make it easy to integrate biometric devices with the ERPNext platform, and it provides users with real-time insights into their attendance data for improved decision-making.
 
 
-[![MIT License](https://img.shields.io/static/v1?label=Nipuna Rangika&message=SeaFoodPro&color=blue)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/static/v1?label=NipunaRangika&message=SeaFoodPro&color=blue)](https://choosealicense.com/licenses/mit/)
